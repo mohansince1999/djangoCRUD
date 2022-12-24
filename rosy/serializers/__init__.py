@@ -1,0 +1,1 @@
+from rosy.serializers.student_serializer import StudentSerializer

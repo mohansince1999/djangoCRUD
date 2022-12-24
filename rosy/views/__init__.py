@@ -1,0 +1,1 @@
+from rosy.views.student_view import StudentViewset
